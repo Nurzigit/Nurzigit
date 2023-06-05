@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.instagram.com/ng_03_/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
-  </a>
     <a href="https://www.linkedin.com/in/нуржигит-турман-b71b47224">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,7 +14,7 @@
 
 I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
-- :telescope: I am a second-year student at Narxoz University
+- :telescope: I am а student at Narxoz University
 
 - :zap: In my free time, I solve problems on HacherRank and read tech articles.
 
