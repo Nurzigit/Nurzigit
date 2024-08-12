@@ -14,7 +14,6 @@
 
 I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
-- :telescope: I am а student at Narxoz University
 
 - :zap: In my free time, I solve problems on HacherRank and read tech articles.
 
